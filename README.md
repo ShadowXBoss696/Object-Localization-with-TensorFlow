@@ -1,4 +1,4 @@
-# 😊 Object-Localization-with-TensorFlow                                   <a herf="https://colab.research.google.com/github/Edumate696/Object-Localization-with-TensorFlow/blob/main/Object_Localization_with_TensorFlow.ipynb"><img align="right" vertical-align="middle" src="https://img.shields.io/badge/Colab-Try_It-informational?style=for-the-badge&logo=google-colab&logoColor=white&color=2bbc8a" /></a>
+# 😊 Object-Localization-with-TensorFlow                                   <a href="https://colab.research.google.com/github/Edumate696/Object-Localization-with-TensorFlow/blob/main/Object_Localization_with_TensorFlow.ipynb"><img align="right" vertical-align="middle" src="https://img.shields.io/badge/Colab-Try_It-informational?style=for-the-badge&logo=google-colab&logoColor=white&color=2bbc8a" /></a>
 
 Created for the Coursera Guided Project: [Object Localization with TensorFlow](https://www.coursera.org/projects/object-localization-tensorflow)
 
